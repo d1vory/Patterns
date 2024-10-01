@@ -4,7 +4,7 @@ public class WinCheckBox: ICheckBox
 {
     public string Render()
     {
-        return "Mac checkbox render";
+        return "win checkbox render";
 
     }
 
